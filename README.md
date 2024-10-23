@@ -1,20 +1,21 @@
-<h3>Hello 👋</h3>
-<p align="center">
-    <a href="https://github.com/bestisblessed">
-        <img src="cat.webp" width="50"/>
-    </a>
-</p>
+<div align="center">
+    <h3>Hello 👋</h3>
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/017/047/854/small_2x/cute-cat-illustration-cat-kawaii-chibi-drawing-style-cat-cartoon-vector.jpg" width="200"/>
+</div>
 
-    <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_PTBR.md"><span>Português</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
-    </p>
-    <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
+
+<p align="center">
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>|
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>|
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_PTBR.md"><span>Português</span></a>|
+    <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
+</p>
+<p>🌟 Welcome to my corner of the coding universe! 🌟</p>
+
+
 <!--     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
