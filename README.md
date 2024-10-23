@@ -1,10 +1,17 @@
 <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
-    <h3>Hello 👋</h3>
+<!--     <h3>Hello 👋</h3>
     <p align="center">
 <!--         <a href="https://longtao.fun"> -->
         <img src="cat.webp" width="50"/>
 <!--         </a> -->
-    </p>
+    </p> -->
+    <div align="center">
+        <h3>Hello 👋</h3>
+        <p align="center">
+            <img src="https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif" width="200"/>
+        </p>
+    </div>
+
     <p align="center">
         <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
         <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
