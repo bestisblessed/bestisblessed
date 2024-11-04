@@ -7,13 +7,13 @@
 
 
 <p align="center">
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>|
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>|
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_PTBR.md"><span>Português</span></a>|
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_CN.md">中文</a> |
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_FR.md">Français</a> |
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_RU.md">Русский</a> |
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_AR.md">عربي</a> |
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_JP.md">日本語</a> |
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_PTBR.md">Português</a> |
+    <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_TR.md">Türkçe</a>
 </p>
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
