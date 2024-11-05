@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Hello 👋</h3>
+    <h3>Hello 🤝</h3>
 <!--     <img src="https://static.vecteezy.com/system/resources/thumbnails/017/047/854/small_2x/cute-cat-illustration-cat-kawaii-chibi-drawing-style-cat-cartoon-vector.jpg" width="200"/> -->
 <!--     <img src="images/justin-jefferson.png" alt="Justin Jefferson" width="700"/> -->
     <img src="images/justin-jefferson-2.jpg" alt="Justin Jefferson" width="500"/>
