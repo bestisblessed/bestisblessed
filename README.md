@@ -18,7 +18,7 @@
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
-<!--     <h4 align="left">My Open Source Projects</h4>
+<h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
             <td><a href="https://github.com/eust-w/gopic">gopic</a> - Fast image hosting tool</td>
@@ -41,4 +41,4 @@
             <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">gnome-extension-wakwaka</a> - Gnome-extension</td>
         </tr>
     </table>
-</div> -->
+</div>
