@@ -18,27 +18,15 @@
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
-<h4 align="left">My Open Source Projects</h4>
+<h4 align="left">My Current Projects (Public Versions)</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/eust-w/gopic">gopic</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/eust-w/esh">esh</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a> - NFL analysis website designed for advanced sports handicappers</td>
+            <td><a href="https://mma-ai.streamlit.app/">mma-ai</a> - UFC/MMA analysis, AI report generatingn and prediction website designed for advanced sports handicappers</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/eust-w/rsm">rsm</a> - RSS subscription function aggregation tool,</td>
-            <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">obsidian image plugin</a> - Upload images from your clipboard obsidian plugin</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/eust-w/qcow2file">qcow2file</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/eust-w/aiPlatform">ai with wechat</a> - WeChat chat robot uses various AI</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/eust-w/openai-chat-switch">chat-switch lib</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/eust-w/govirsh">govirsh</a> - Virsh go package</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/eust-w/ltrobot-mimiwechat">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">gnome-extension-wakwaka</a> - Gnome-extension</td>
+            <td><a href="https://github.com/bestisblessed/ai-templates">OpenAI Templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
+            <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
         </tr>
     </table>
 </div>
