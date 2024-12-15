@@ -21,8 +21,8 @@
 <h4 align="left">My Current Projects (Public Versions)</h4>
     <table align="center">
         <tr>
-            <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a> - NFL analysis website designed for advanced sports handicappers</td>
-            <td><a href="https://mma-ai.streamlit.app/">mma-ai</a> - UFC/MMA analysis, AI report generatingn and prediction website designed for advanced sports handicappers</td>
+            <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a> - NFL data analysis website designed for advanced sports handicappers</td>
+            <td><a href="https://mma-ai.streamlit.app/">mma-ai</a> - UFC/MMA data analysis, AI report generating, and fight prediction website designed for advanced sports handicappers</td>
         </tr>
         <tr>
             <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
