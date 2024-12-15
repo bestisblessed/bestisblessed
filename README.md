@@ -18,7 +18,7 @@
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
-<h4 align="left">My Current Projects (Public)</h4>
+<h4 align="left">Current Projects (Public)</h4>
     <table align="center">
         <tr>
             <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a> - NFL data analysis website designed for advanced sports handicappers</td>
