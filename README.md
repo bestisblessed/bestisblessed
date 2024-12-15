@@ -25,8 +25,8 @@
             <td><a href="https://mma-ai.streamlit.app/">mma-ai</a> - UFC/MMA data analysis, AI report generating, and fight prediction website designed for advanced sports handicappers</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
             <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
+            <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
         </tr>
     </table>
 </div>
