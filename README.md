@@ -28,5 +28,9 @@
             <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
             <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/bestisblessed/trading-bots">trading-bots</a> - Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
+            <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a> - 😼❓❓</td>
+        </tr>
     </table>
 </div>
