@@ -30,6 +30,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
+            <td><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a> - Streamlit dashboard for various analysis of oil and gas industry</td>
         </tr>
         <tr>
             <td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a> - Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
