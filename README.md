@@ -22,18 +22,18 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
-            <td><a href="https://github.com/bestisblessed/the-fight-agent">the-fight-agent</a> - </td>
+            <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a> - Automated AI Agent designed for fight analysis. Currently deployed on twitter.</td>
         </tr>
         <tr>
             <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a> - NFL data analysis website designed for advanced sports handicappers</td>
             <td><a href="https://mma-ai.streamlit.app/">mma-ai</a> - UFC/MMA data analysis, AI report generating, and fight prediction website designed for advanced sports handicappers</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/bestisblessed/trading-bots">trading-bots</a> - Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
-            <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a> - 😼😼❓❓ (production bots)</td>
+            <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
+            <td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a> - Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
+            <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a> - 😼😼❓❓ (production bots)</td>
         </tr>
     </table>
 </div>
