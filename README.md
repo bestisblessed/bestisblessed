@@ -1,14 +1,14 @@
 <div align="center">
     <a href="https://github.com/bestisblessed">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+stuff+and+sports" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=F70000&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+stuff+and+sports;Always+learning+new+things" alt="Typing SVG" />
     </a>
 </div>
 
 <div align="center">
-    <h3>Hello 🤝</h3>
+    <!-- <h3>Hello 🤝</h3> -->
 <!--     <img src="https://static.vecteezy.com/system/resources/thumbnails/017/047/854/small_2x/cute-cat-illustration-cat-kawaii-chibi-drawing-style-cat-cartoon-vector.jpg" width="200"/> -->
 <!--     <img src="images/justin-jefferson.png" alt="Justin Jefferson" width="900"/> -->
-    <img src="images/justin-jefferson-2.jpg" alt="Justin Jefferson" width="500"/>
+    <img src="images/justin-jefferson-2.jpg" alt="Justin Jefferson" width="600"/>
 </div>
 
 
