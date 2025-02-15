@@ -24,7 +24,7 @@
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
-<h4 align="left">\🖥️ Current Projects:</h4>
+<h2 align="left">🖥️ Current Projects:</h2>
 <table align="center">
     <tr>
         <th>Title</th>
