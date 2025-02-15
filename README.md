@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left" style="margin-left: 20px;">
     <a href="https://github.com/bestisblessed">
         <!-- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+Stuff+and+Sports.." alt="Typing SVG" /> -->
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;AI%2C+Algorithms%2C+Automation%2C+Sports.." alt="Typing SVG" />
