@@ -24,7 +24,7 @@
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
-<h1 align="left">🖥️ Current Projects</h1>
+<h2 align="left">🖥️ Current Projects</h2>
 <table align="center">
     <tr>
         <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
