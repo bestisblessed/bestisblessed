@@ -1,11 +1,11 @@
 <div align="center">
     <a href="https://github.com/bestisblessed">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+stuff+and+sports" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+Stuff+and+Sports" alt="Typing SVG" />
     </a>
 </div>
 
 <div align="center">
-    <img src="images/justin-jefferson-2.jpg" alt="Justin Jefferson" width="500"/>
+    <img src="images/justin-jefferson-2.jpg" alt="Justin Jefferson" width="700"/>
     <br><br>
     <a href="mailto:tyler.durette@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
