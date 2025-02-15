@@ -19,7 +19,6 @@
 
 
 <p align="center">
-    <br>
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_CN.md">中文</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_FR.md">Français</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_RU.md">Русский</a> |
@@ -28,6 +27,7 @@
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_PTBR.md">Português</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_TR.md">Türkçe</a>
 </p>
+<br>
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
