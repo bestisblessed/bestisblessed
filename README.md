@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <br><br>
+    <br>
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_CN.md">中文</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_FR.md">Français</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_RU.md">Русский</a> |
