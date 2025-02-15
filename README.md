@@ -24,43 +24,23 @@
 <p align="center">🚀 Welcome to my repo... 🚀</p>
 
 
-<h2 align="left">🖥️ Current Projects:</h2>
+<h1 align="left">🖥️ Current Projects</h1>
 <table align="center">
     <tr>
-        <th>Title</th>
-        <th>Description</th>
+        <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
+        <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a> - Automated AI Agent designed for fight analysis. Currently deployed on Twitter.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a></td>
-        <td>Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
+        <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a> - NFL data analysis website designed for advanced sports handicappers</td>
+        <td><a href="https://mma-ai.streamlit.app/">mma-ai</a> - UFC/MMA data analysis, AI report generating, and fight prediction website designed for advanced sports handicappers</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a></td>
-        <td>Automated AI Agent designed for fight analysis. Currently deployed on Twitter.</td>
+        <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
+        <td><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a> - Streamlit dashboard for various analysis of oil and gas industry</td>
     </tr>
     <tr>
-        <td><a href="https://nfl-ai.streamlit.app/">nfl-ai</a></td>
-        <td>NFL data analysis website designed for advanced sports handicappers</td>
-    </tr>
-    <tr>
-        <td><a href="https://mma-ai.streamlit.app/">mma-ai</a></td>
-        <td>UFC/MMA data analysis, AI report generating, and fight prediction website designed for advanced sports handicappers</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a></td>
-        <td>Odds monitoring scripts for NFL, NCAAF, UFC, and more from various books designed to run in cron jobs throughout the day</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a></td>
-        <td>Streamlit dashboard for various analysis of oil and gas industry</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a></td>
-        <td>Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a></td>
-        <td>😼😼❓❓ (production bots)</td>
+        <td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a> - Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
+        <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a> - 😼😼❓❓ (production bots)</td>
     </tr>
 </table>
 </div>
