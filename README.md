@@ -1,6 +1,8 @@
 <div align="center">
     <a href="https://github.com/bestisblessed">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+Stuff+and+Sports.." alt="Typing SVG" />
+        <!-- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=Tyler+Durette;I+like+AI+Stuff+and+Sports.." alt="Typing SVG" /> -->
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=200&color=800080&background=FFFFFF00&multiline=true&width=500&height=80&lines=AI%2C+Algos%2C+Automation%2C+Sports..." alt="Typing SVG" />
+        <!-- AI, Algos, Automation, Sports... -->
     </a>
 </div>
 
