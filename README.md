@@ -8,6 +8,7 @@
 
 <div align="center">
     <img src="images/justin-jefferson-2.jpg" alt="Justin Jefferson" width="700"/>
+    <br>
     <a href="mailto:tyler.durette@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
