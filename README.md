@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/tyler-durette-43b54317a/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
-    <br>
+    <br><br>
 </div>
 
 
