@@ -13,11 +13,11 @@
     <a href="https://www.linkedin.com/in/tyler-durette-43b54317a/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
-    <br><br>
 </div>
 
 
 <p align="center">
+    <br><br>
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_CN.md">中文</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_FR.md">Français</a> |
     <a href="https://github.com/bestisblessed/bestisblessed/blob/main/README_RU.md">Русский</a> |
