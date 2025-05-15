@@ -34,25 +34,85 @@
 
 <h2 align="left">💻 Current Projects</h2>
 <table>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a> - Templates & examples of various use cases with the OpenAI API, mostly assistants</td>
-        <td><a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Local builds for experimenting with different AI frameworks & APIs (OpenAI responses, Ollama, LangChain, Open Interpreter, etc) as well as fine-tuning and embedding examples</td>
-        <td><a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Templates & examples of various use cases with the Deepseek API</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td>
-        <td><a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a> - iOS app deployed using Swift for UFC/MMA data analysis & fight predictions, currently available in the app store</td>
-        <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td>
-        <td><a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td>
-        <td><a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from multiple books, designed to run continously throughout the day for movement analysis and notifications</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bestisblessed/trading-bots-public">📉 trading-bots-public</a> - Trading bot scripts and tests for the Solana and Base blockchains</td>
-        <td><a href="https://github.com/bestisblessed/trading-bots-private">📈 trading-bots-private</a> - Production trading bots 😼</td>
-        <td><a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td>
-    </tr>
+  <tr>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a><br>
+        Templates & examples of various use cases with the OpenAI API, mostly assistants
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a><br>
+        Local builds for experimenting with different AI frameworks & APIs (OpenAI responses, Ollama, LangChain, Open Interpreter, etc) as well as fine-tuning and embedding examples
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a><br>
+        Templates & examples of various use cases with the Deepseek API
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a><br>
+        UFC/MMA data analysis & fight prediction app
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a><br>
+        iOS app deployed using Swift for UFC/MMA data analysis & fight predictions, currently available in the app store
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a><br>
+        Automated AI Agent deployed on Twitter designed for fight analysis
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a><br>
+        MLB data analysis & prediction platform
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a><br>
+        NFL data analysis & prediction platform
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a><br>
+        Odds monitoring scripts for NFL, NCAAF, UFC, and more from multiple books, designed to run continously throughout the day for movement analysis and notifications
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/trading-bots-public">📉 trading-bots-public</a><br>
+        Trading bot scripts and tests for the Solana and Base blockchains
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/trading-bots-private">📈 trading-bots-private</a><br>
+        Production trading bots 😼
+      </div>
+    </td>
+    <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
+      <div>
+        <a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a><br>
+        Streamlit dashboard for oil and gas industry analysis
+      </div>
+    </td>
+  </tr>
 </table>
 </div>
