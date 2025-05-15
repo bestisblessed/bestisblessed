@@ -33,22 +33,22 @@
 
 
 <h2 align="left">💻 Current Projects</h2>
-<table>
+<table style="table-layout:fixed;width:100%;">
   <tr>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a><br>
         Templates & examples of various use cases with the OpenAI API, mostly assistants
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a><br>
         Local builds for experimenting with different AI frameworks & APIs (OpenAI responses, Ollama, LangChain, Open Interpreter, etc) as well as fine-tuning and embedding examples
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a><br>
         Templates & examples of various use cases with the Deepseek API
       </div>
@@ -56,19 +56,19 @@
   </tr>
   <tr>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a><br>
         UFC/MMA data analysis & fight prediction app
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a><br>
         iOS app deployed using Swift for UFC/MMA data analysis & fight predictions, currently available in the app store
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a><br>
         Automated AI Agent deployed on Twitter designed for fight analysis
       </div>
@@ -76,19 +76,19 @@
   </tr>
   <tr>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a><br>
         MLB data analysis & prediction platform
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a><br>
         NFL data analysis & prediction platform
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a><br>
         Odds monitoring scripts for NFL, NCAAF, UFC, and more from multiple books, designed to run continously throughout the day for movement analysis and notifications
       </div>
@@ -96,19 +96,19 @@
   </tr>
   <tr>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/trading-bots-public">📉 trading-bots-public</a><br>
         Trading bot scripts and tests for the Solana and Base blockchains
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/trading-bots-private">📈 trading-bots-private</a><br>
         Production trading bots 😼
       </div>
     </td>
     <td style="width:220px;height:120px;text-align:center;vertical-align:middle;">
-      <div>
+      <div style="width:200px;overflow-wrap:break-word;margin:auto;">
         <a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a><br>
         Streamlit dashboard for oil and gas industry analysis
       </div>
