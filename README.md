@@ -31,49 +31,49 @@
 
 
 <h2 align="left">🖥️ Current Projects</h2>
-<table align="center" style="table-layout: fixed; width: 100%;">
+<table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a> - Templates & examples of various use cases with the OpenAI API, mostly assistants
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/ai-templates" style="font-weight: bold;">🤖 ai-templates</a> - Templates & examples of various use cases with the OpenAI API, mostly assistants
         </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Local builds for experimenting with different AI frameworks & APIs
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/ai-local-builds" style="font-weight: bold;">🤖 ai-local-builds</a> - Local builds for experimenting with different AI frameworks & APIs (OpenAI responses, Ollama, LangChain, Open Interpreter, etc) as well as fine-tuning and embedding examples
         </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Templates & examples of various use cases with the Deepseek API
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/deepseek" style="font-weight: bold;">🤖 deepseek</a> - Templates & examples of various use cases with the Deepseek API
         </td>
     </tr>
     <tr>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/mma-ai" style="font-weight: bold;">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app
         </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/mma-ai-swift-app">📱 mma-ai-swift-app</a> - iOS app for UFC/MMA data analysis & fight predictions
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/mma-ai-swift-app" style="font-weight: bold;">📱 mma-ai-swift-app</a> - iOS app deployed using Swift for UFC/MMA data analysis & fight predictions, currently available in the app store
         </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/the-fight-predictor-agent">🐦 the-fight-predictor-agent</a> - Automated AI Agent on Twitter for fight analysis
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform
-        </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a> - NFL data analysis & prediction platform
-        </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring scripts for sports betting
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/the-fight-predictor-agent" style="font-weight: bold;">🐦 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis
         </td>
     </tr>
     <tr>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/trading-bots-public">💹 trading-bots-public</a> - Trading bot scripts for Solana and Base blockchains
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/mlb-ai" style="font-weight: bold;">⚾ mlb-ai</a> - MLB data analysis & prediction platform
         </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/trading-bots-private">💹 trading-bots-private</a> - Production trading bots 😼
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/nfl-ai" style="font-weight: bold;">🏈 nfl-ai</a> - NFL data analysis & prediction platform
         </td>
-        <td style="width: 33.33%; padding: 10px; border: 1px solid #ddd;">
-            <a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/odds-monitoring" style="font-weight: bold;">📊 odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from multiple books, designed to run continously throughout the day for movement analysis and notifications
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/trading-bots-public" style="font-weight: bold;">💹 trading-bots-public</a> - Trading bot scripts and tests for the Solana and Base blockchains
+        </td>
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/trading-bots-private" style="font-weight: bold;">💹 trading-bots-private</a> - Production trading bots 😼
+        </td>
+        <td style="width: 33.33%; padding: 15px; border: 1px solid #ddd; vertical-align: top; height: 120px;">
+            <a href="https://github.com/bestisblessed/oil-ai-dashboard" style="font-weight: bold;">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis
         </td>
     </tr>
 </table>
