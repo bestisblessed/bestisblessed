@@ -31,7 +31,7 @@
 
 
 <h2 align="left">🖥️ Current Projects</h2>
-<table align="center">
+<!-- <table align="center">
     <tr>
         <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Various templates for different use cases of the OpenAI API (mostly assistants) designed to help beginners get started</td>
         <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a> - Automated AI Agent designed for fight analysis. Currently deployed on Twitter.</td>
@@ -47,6 +47,28 @@
     <tr>
         <td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a> - Various Solana and Base chain scripts for building blocks of my trading bots (all my good/production bots in a private version of the repo but you can ping me and I am happy to help)</td>
         <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a> - 😼😼❓❓ (production bots)</td>
+    </tr>
+</table> -->
+<table align="center">
+    <tr>
+        <td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a> - Templates & examples of various use cases with the OpenAI API, mostly assistants</td>
+        <td><a href="https://github.com/bestisblessed/ai-local-builds">ai-local-builds</a> - Local builds for experimenting with different AI frameworks & APIs (OpenAI responses, Ollama, LangChain, Open Interpreter, etc) as well as fine-tuning and embedding examples</t</td>
+        <td><a href="https://github.com/bestisblessed/deepseek">deepseek</a> - Templates & examples of various use cases with the Deepseek API</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bestisblessed/mma-ai">mma-ai</a> - UFC/MMA data analysis & fight prediction app</td>
+        <td><a href="https://github.com/bestisblessed/mma-ai-swift-app">mma-ai-swift-app</a> - iOS app deployed using Swift for UFC/MMA data analysis & fight predictions, currently available in the app store</td>
+        <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bestisblessed/mlb-ai">mlb-ai</a> - MLB data analysis & prediction platform</td>
+        <td><a href="https://github.com/bestisblessed/nfl-ai">nfl-ai</a> - NFL data analysis & prediction platform</td>
+        <td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a> - Odds monitoring scripts for NFL, NCAAF, UFC, and more from multiple books, designed to run continously throughout the day for movement analysis and notifications</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a> - Trading bot scripts and tests for the Solana and Base blockchains</td>
+        <td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a> - Production trading bots 😼</td>
+        <td><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td>
     </tr>
 </table>
 </div>
