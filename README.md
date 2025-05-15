@@ -36,12 +36,12 @@
 <table>
     <tr>
         <td><a href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a> - Templates & examples of various use cases with the OpenAI API, mostly assistants</td>
-        <td><a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Local builds for experimenting with different AI frameworks & APIs (OpenAI responses, Ollama, LangChain, Open Interpreter, etc) as well as fine-tuning and embedding examples</td>
+        <td><a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Testing various models/agents/embeddings/tools with different AI frameworks & APIs (ollama, langchain, open interpreter, openai responses)</td>
         <td><a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Templates & examples of various use cases with the Deepseek API</td>
     </tr>
     <tr>
         <td><a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td>
-        <td><a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a> - iOS app deployed using Swift for UFC/MMA data analysis & fight predictions, currently available in the app store</td>
+        <td><a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td>
         <td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td>
     </tr>
     <tr>
