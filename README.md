@@ -13,7 +13,6 @@
     <a href="mailto:tyler.durette@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=bestisblessed&style=flat-square&color=blue" alt="Profile views" />
     <a href="https://www.linkedin.com/in/tyler-durette-43b54317a/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
@@ -23,6 +22,7 @@
     <a href="./TylerDuretteResume.pdf">
         <img src="https://img.shields.io/badge/-Resume-darkgreen?style=flat-square&logo=readme&logoColor=white" alt="Resume" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=bestisblessed&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 
