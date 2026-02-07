@@ -30,7 +30,7 @@
 
 <h2 align="left">💻 Current Projects</h2>
 
-<h3 align="left"><code>AI Stuff</code></h3>
+<h3 align="left"><strong>AI Stuff</strong></h3>
 <table>
     <tr><td><a href="https://github.com/bestisblessed/ai-agents">ai-agents</a> - AI agent workflows and automation experiments</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Examples using different models, agents, tools from various AI frameworks (ollama, langchain, open interpreter etc.)</td></tr>
@@ -39,17 +39,17 @@
     <tr><td><a href="https://github.com/bestisblessed/ralph">ralph</a> - AI experiments and project prototypes</td></tr>
 </table>
 
-<h3 align="left"><code>Production Dashboards & Apps</code></h3>
+<h3 align="left"><strong>Production Dashboards & Apps</strong></h3>
 <table>
-    <tr><td><a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td></tr>
 </table>
 
-<h3 align="left"><code>Bots & Trading Algorithms</code></h3>
+<h3 align="left"><strong>Bots & Trading Algorithms</strong></h3>
 <table>
     <tr><td><a href="https://github.com/bestisblessed/polymarket-bots">polymarket-bots</a> - Bot strategies and automation for Polymarket</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/trading-bots">trading-bots</a> - Core trading bot strategies and execution logic</td></tr>
@@ -57,7 +57,7 @@
     <tr><td><a href="https://github.com/bestisblessed/trading-bots-public">📉 trading-bots-public</a> - Trading bot scripts and tests for the Solana and Base blockchains</td></tr>
 </table>
 
-<h3 align="left"><code>Utilities</code></h3>
+<h3 align="left"><strong>Utilities</strong></h3>
 <table>
     <tr><td><a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring, notifications, and movement analysis code for NFL, NCAAF, UFC</td></tr>
 </table>
