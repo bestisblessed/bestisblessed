@@ -19,7 +19,7 @@
     <a href="https://tylerdurette.vercel.app/">
         <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
     </a>
-    <a href="./TylerDuretteResume.pdf">
+    <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/bestisblessed/bestisblessed/main/resume.html">
         <img src="https://img.shields.io/badge/-Resume-darkgreen?style=flat-square&logo=readme&logoColor=white" alt="Resume" />
     </a>
     <a href="./TylerDuretteResume.pdf" download>
