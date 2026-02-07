@@ -28,11 +28,12 @@
 
 
 
-<h2 align="left">💻 Current Projects</h2>
+<h2 align="left" style="font-size:1.6em;letter-spacing:0.04em;margin-top:32px;margin-bottom:16px;border-bottom:2px solid #d1d5db;padding-bottom:8px;">💻 Current Projects</h2>
 
 <h3 align="left" style="margin-top:24px;margin-bottom:8px;font-size:1.2em;text-transform:uppercase;letter-spacing:0.08em;color:#111111;border-bottom:2px solid #d1d5db;padding-bottom:6px;">
-    <strong>AI Stuff</strong>
+    <strong>AI Slop</strong>
 </h3>
+<div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
     <tr><td><a href="https://github.com/bestisblessed/ai-agents">🤖 ai-agents</a> - AI agent workflows and automation experiments</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Examples using different models, agents, tools from various AI frameworks (ollama, langchain, open interpreter etc.)</td></tr>
@@ -40,10 +41,12 @@
     <tr><td><a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Examples of various use cases with the Deepseek API</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/ralph">🤖 ralph</a> - AI experiments and project prototypes</td></tr>
 </table>
+</div>
 
 <h3 align="left" style="margin-top:32px;margin-bottom:8px;font-size:1.2em;text-transform:uppercase;letter-spacing:0.08em;color:#111111;border-bottom:2px solid #d1d5db;padding-bottom:6px;">
     <strong>Production Dashboards & Apps</strong>
 </h3>
+<div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
     <tr><td><a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
@@ -52,22 +55,27 @@
     <tr><td><a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td></tr>
 </table>
+</div>
 
 <h3 align="left" style="margin-top:32px;margin-bottom:8px;font-size:1.2em;text-transform:uppercase;letter-spacing:0.08em;color:#111111;border-bottom:2px solid #d1d5db;padding-bottom:6px;">
     <strong>Bots & Trading Algorithms</strong>
 </h3>
+<div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
     <tr><td><a href="https://github.com/bestisblessed/polymarket-bots">🎯 polymarket-bots</a> - Bot strategies and automation for Polymarket</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/trading-bots">💸 trading-bots</a> - Core trading bot strategies and execution logic</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/trading-bots-private">📈 trading-bots-private</a> - Production trading bots 😼</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/trading-bots-public">📉 trading-bots-public</a> - Trading bot scripts and tests for the Solana and Base blockchains</td></tr>
 </table>
+</div>
 
 <h3 align="left" style="margin-top:32px;margin-bottom:8px;font-size:1.2em;text-transform:uppercase;letter-spacing:0.08em;color:#111111;border-bottom:2px solid #d1d5db;padding-bottom:6px;">
     <strong>Utilities</strong>
 </h3>
+<div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
     <tr><td><a href="https://github.com/bestisblessed/crawler">🕷️ crawler</a> - Scans data feeds and collects structured inputs</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring, notifications, and movement analysis code for NFL, NCAAF, UFC</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/cursor-rules-v2">🧭 cursor-rules-v2</a> - Rule-based selector improvements for cursor flows</td></tr>
 </table>
+</div>
