@@ -19,6 +19,12 @@
     <a href="https://tylerdurette.vercel.app/">
         <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
     </a>
+    <a href="./TylerDuretteResume.pdf">
+        <img src="https://img.shields.io/badge/-Resume-darkgreen?style=flat-square&logo=readme&logoColor=white" alt="Resume" />
+    </a>
+    <a href="./TylerDuretteResume.pdf" download>
+        <img src="https://img.shields.io/badge/-Download-success?style=flat-square&logo=googledrive&logoColor=white" alt="Download Resume" />
+    </a>
 </div>
 
 
