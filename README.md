@@ -32,11 +32,11 @@
 
 <h3 align="left"><strong>AI Stuff</strong></h3>
 <table>
-    <tr><td><a href="https://github.com/bestisblessed/ai-agents">ai-agents</a> - AI agent workflows and automation experiments</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/ai-agents">🤖 ai-agents</a> - AI agent workflows and automation experiments</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Examples using different models, agents, tools from various AI frameworks (ollama, langchain, open interpreter etc.)</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a> - Examples of various use cases with the OpenAI API, mostly assistants</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Examples of various use cases with the Deepseek API</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/ralph">ralph</a> - AI experiments and project prototypes</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/ralph">🤖 ralph</a> - AI experiments and project prototypes</td></tr>
 </table>
 
 <h3 align="left"><strong>Production Dashboards & Apps</strong></h3>
@@ -51,8 +51,8 @@
 
 <h3 align="left"><strong>Bots & Trading Algorithms</strong></h3>
 <table>
-    <tr><td><a href="https://github.com/bestisblessed/polymarket-bots">polymarket-bots</a> - Bot strategies and automation for Polymarket</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/trading-bots">trading-bots</a> - Core trading bot strategies and execution logic</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/polymarket-bots">🎯 polymarket-bots</a> - Bot strategies and automation for Polymarket</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/trading-bots">💸 trading-bots</a> - Core trading bot strategies and execution logic</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/trading-bots-private">📈 trading-bots-private</a> - Production trading bots 😼</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/trading-bots-public">📉 trading-bots-public</a> - Trading bot scripts and tests for the Solana and Base blockchains</td></tr>
 </table>
