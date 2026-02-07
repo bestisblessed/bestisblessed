@@ -59,5 +59,7 @@
 
 <h3 align="left"><strong>Utilities</strong></h3>
 <table>
+    <tr><td><a href="https://github.com/bestisblessed/crawler">🕷️ crawler</a> - Scans data feeds and collects structured inputs</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring, notifications, and movement analysis code for NFL, NCAAF, UFC</td></tr>
+    <tr><td><a href="https://github.com/bestisblessed/cursor-rules-v2">🧭 cursor-rules-v2</a> - Rule-based selector improvements for cursor flows</td></tr>
 </table>
