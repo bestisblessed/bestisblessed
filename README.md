@@ -31,7 +31,7 @@
 <h2 align="left" style="font-size:1.6em;letter-spacing:0.04em;margin-top:32px;margin-bottom:16px;border-bottom:2px solid #d1d5db;padding-bottom:8px;">💻 Current Projects</h2>
 
 <h3 align="left" style="margin-top:24px;margin-bottom:8px;font-size:1.2em;text-transform:uppercase;letter-spacing:0.08em;color:#111111;border-bottom:2px solid #d1d5db;padding-bottom:6px;">
-    <strong>AI Slop</strong>
+    <strong>AI Tools & Slop</strong>
 </h3>
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
