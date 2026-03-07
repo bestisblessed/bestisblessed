@@ -48,8 +48,8 @@
 </h3>
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
-    <tr><td><a href="https://github.com/bestisblessed/mma-ai">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/mma-ai-swift-app">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
+    <tr><td><a href="https://mma-ai.streamlit.app/">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
+    <tr><td><a href="https://apps.apple.com/us/app/mma-ai/id6743686924">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td></tr>
     <tr><td><a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
