@@ -38,9 +38,9 @@
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/ai-agents">🤖 ai-agents</a> - AI agent workflows and automation experiments</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/ai-local-builds">🤖 ai-local-builds</a> - Examples using different models, agents, tools from various AI frameworks (ollama, langchain, open interpreter etc.)</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a> - Examples of various use cases with the OpenAI API, mostly assistants</td></tr>
+    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/bilbo-the-lobster">🦞 bilbo-the-lobster</a> - OpenClaw custom configurations and setup notes</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Examples of various use cases with the Deepseek API</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/ralph">🤖 ralph</a> - AI experiments and project prototypes</td></tr>
-    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/bilbo-the-lobster">🦞 bilbo-the-lobster</a> - OpenClaw custom configurations and setup notes</td></tr>
 </table>
 </div>
 
@@ -52,8 +52,8 @@
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://mma-ai.streamlit.app/">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://apps.apple.com/us/app/mma-ai/id6743686924">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://nfl-ai.streamlit.app/">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td></tr>
-    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://mlb-ai.streamlit.app/">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
+    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td></tr>
 </table>
 </div>
