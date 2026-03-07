@@ -48,21 +48,12 @@
 </h3>
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
-<<<<<<< ours
-    <tr><td><a href="https://mma-ai.streamlit.app/">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
-    <tr><td><a href="https://apps.apple.com/us/app/mma-ai/id6743686924">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/nfl-ai">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/mlb-ai">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
-    <tr><td><a href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td></tr>
-=======
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://mma-ai.streamlit.app/">🥊 mma-ai</a> - UFC/MMA data analysis & fight prediction app</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://apps.apple.com/us/app/mma-ai/id6743686924">🥊 mma-ai-swift-app</a> - iOS app built with Swift/XCode for UFC/MMA data analysis & fight predictions - currently deployed to app store</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://nfl-ai.streamlit.app/">🏈 nfl-ai</a> - NFL data analysis & prediction platform</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/the-fight-predictor-agent">🥷 the-fight-predictor-agent</a> - Automated AI Agent deployed on Twitter designed for fight analysis</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://mlb-ai.streamlit.app/">⚾ mlb-ai</a> - MLB data analysis & prediction platform</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/oil-ai-dashboard">🛢️ oil-ai-dashboard</a> - Streamlit dashboard for oil and gas industry analysis</td></tr>
->>>>>>> theirs
 </table>
 </div>
 
