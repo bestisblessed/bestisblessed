@@ -40,6 +40,7 @@
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/ai-templates">🤖 ai-templates</a> - Examples of various use cases with the OpenAI API, mostly assistants</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/deepseek">🤖 deepseek</a> - Examples of various use cases with the Deepseek API</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/ralph">🤖 ralph</a> - AI experiments and project prototypes</td></tr>
+    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/bilbo-the-lobster">🦞 bilbo-the-lobster</a> - OpenClaw custom configurations and setup notes</td></tr>
 </table>
 </div>
 
@@ -77,6 +78,5 @@
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/crawler">🕷️ crawler</a> - Scans data feeds and collects structured inputs</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring, notifications, and movement analysis code for NFL, NCAAF, UFC</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/cursor-rules-v2">🧭 cursor-rules-v2</a> - Rule-based selector improvements for cursor flows</td></tr>
-    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/bilbo-the-lobster">🦞 bilbo-the-lobster</a> - OpenClaw custom configurations and setup notes</td></tr>
 </table>
 </div>
