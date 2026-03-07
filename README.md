@@ -76,7 +76,9 @@
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;background:#ffffff;margin-bottom:24px;">
 <table>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/crawler">🕷️ crawler</a> - Scans data feeds and collects structured inputs</td></tr>
-    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring, notifications, and movement analysis code for NFL, NCAAF, UFC</td></tr>
     <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/cursor-rules-v2">🧭 cursor-rules-v2</a> - Rule-based selector improvements for cursor flows</td></tr>
+    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/my-bots-dashboard">🤖 my-bots-dashboard</a> - Dashboard for monitoring and managing bots</td></tr>
+    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/my-mcp-server">🔌 my-mcp-server</a> - Custom MCP server implementation</td></tr>
+    <tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/bestisblessed/odds-monitoring">📊 odds-monitoring</a> - Odds monitoring, notifications, and movement analysis code for NFL, NCAAF, UFC</td></tr>
 </table>
 </div>
