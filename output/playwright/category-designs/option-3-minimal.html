@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project Categories - Option 3</title>
+  <style>
+    :root {
+      --bg: #fcfcfb;
+      --text: #22252a;
+      --muted: #5a606b;
+      --line: #d7dce3;
+      --accent: #b45309;
+      --stripe: #fff7ed;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--text);
+      font-family: Georgia, Cambria, "Times New Roman", serif;
+      background: repeating-linear-gradient(0deg, #fff, #fff 48px, #f9fafb 49px, #f9fafb 50px);
+    }
+    .wrap { max-width: 980px; margin: 0 auto; padding: 34px 18px 50px; }
+    h1 { margin: 0 0 2px; font-size: 36px; }
+    .sub { margin: 0 0 24px; color: var(--muted); font-size: 17px; }
+    .section {
+      border: 1px solid var(--line);
+      background: white;
+      margin-bottom: 14px;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .section h2 {
+      margin: 0;
+      font-size: 20px;
+      background: var(--stripe);
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+    }
+    table { width: 100%; border-collapse: collapse; }
+    td {
+      padding: 10px 14px;
+      border-bottom: 1px solid #eceff3;
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: none; }
+    a { color: var(--accent); text-decoration: none; font-weight: 700; }
+    a:hover { text-decoration: underline; }
+    .desc { color: var(--muted); margin-top: 2px; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>Project Directory</h1>
+    <p class="sub">Option 3: Editorial list style, optimized for readability in Markdown previews.</p>
+
+    <section class="section">
+      <h2>AI Stuff</h2>
+      <table>
+        <tr><td><a href="https://github.com/bestisblessed/ai-local-builds">ai-local-builds</a><div class="desc">Local model + tooling experiments.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a><div class="desc">Reusable starter examples for AI projects.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/deepseek">deepseek</a><div class="desc">Deepseek API experiments and integrations.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a><div class="desc">Autonomous fight analysis and posting workflow.</div></td></tr>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2>Production Dashboards</h2>
+      <table>
+        <tr><td><a href="https://github.com/bestisblessed/mlb-ai">mlb-ai</a><div class="desc">MLB analytics and prediction UI.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/mma-ai">mma-ai</a><div class="desc">UFC/MMA data analysis and predictions.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/nfl-ai">nfl-ai</a><div class="desc">NFL analytics and prediction dashboard.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a><div class="desc">Energy-domain operations dashboard.</div></td></tr>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2>Bots &amp; Trading Algorithms</h2>
+      <table>
+        <tr><td><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a><div class="desc">Odds movement monitoring and alerts.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a><div class="desc">Private production trading systems.</div></td></tr>
+        <tr><td><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a><div class="desc">Public trading scripts and tests.</div></td></tr>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2>Utilities</h2>
+      <table>
+        <tr><td><a href="https://github.com/bestisblessed/mma-ai-swift-app">mma-ai-swift-app</a><div class="desc">iOS companion app for MMA AI workflows.</div></td></tr>
+      </table>
+    </section>
+  </main>
+</body>
+</html>

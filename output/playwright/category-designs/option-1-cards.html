@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project Categories - Option 1</title>
+  <style>
+    :root {
+      --bg: #f4f5f7;
+      --text: #16181d;
+      --muted: #5d6472;
+      --card: #ffffff;
+      --line: #d8dde7;
+      --accent: #0a66c2;
+      --chip: #eaf3ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top right, #fef6e7 0%, var(--bg) 45%);
+    }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 36px 20px; }
+    h1 { margin: 0 0 8px; font-size: 34px; }
+    .sub { color: var(--muted); margin-bottom: 26px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,.06);
+    }
+    .head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .head h2 { margin: 0; font-size: 22px; }
+    .count {
+      font-size: 12px;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: var(--chip);
+      color: var(--accent);
+      font-weight: 700;
+    }
+    ul { margin: 0; padding-left: 18px; }
+    li { margin: 8px 0; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>Project Directory</h1>
+    <p class="sub">Option 1: Card layout with category counts and clean spacing.</p>
+    <section class="grid">
+      <article class="card">
+        <div class="head"><h2>AI Stuff</h2><span class="count">4 repos</span></div>
+        <ul>
+          <li><a href="https://github.com/bestisblessed/ai-local-builds">ai-local-builds</a></li>
+          <li><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a></li>
+          <li><a href="https://github.com/bestisblessed/deepseek">deepseek</a></li>
+          <li><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a></li>
+        </ul>
+      </article>
+      <article class="card">
+        <div class="head"><h2>Production Dashboards</h2><span class="count">4 repos</span></div>
+        <ul>
+          <li><a href="https://github.com/bestisblessed/mlb-ai">mlb-ai</a></li>
+          <li><a href="https://github.com/bestisblessed/mma-ai">mma-ai</a></li>
+          <li><a href="https://github.com/bestisblessed/nfl-ai">nfl-ai</a></li>
+          <li><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a></li>
+        </ul>
+      </article>
+      <article class="card">
+        <div class="head"><h2>Bots &amp; Trading Algorithms</h2><span class="count">3 repos</span></div>
+        <ul>
+          <li><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a></li>
+          <li><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a></li>
+          <li><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a></li>
+        </ul>
+      </article>
+      <article class="card">
+        <div class="head"><h2>Utilities</h2><span class="count">1 repo</span></div>
+        <ul>
+          <li><a href="https://github.com/bestisblessed/mma-ai-swift-app">mma-ai-swift-app</a></li>
+        </ul>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

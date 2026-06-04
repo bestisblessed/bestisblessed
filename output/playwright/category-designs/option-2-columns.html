@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project Categories - Option 2</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --panel-soft: #1f2937;
+      --line: #334155;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #22d3ee;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: linear-gradient(180deg, #0b1020 0%, #111827 60%, #0f172a 100%);
+    }
+    .wrap { max-width: 1260px; margin: 0 auto; padding: 32px 18px 42px; }
+    h1 { margin: 0 0 8px; font-size: 32px; }
+    .sub { margin: 0 0 22px; color: var(--muted); }
+    .board {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(220px, 1fr));
+      gap: 12px;
+    }
+    .col {
+      background: color-mix(in oklab, var(--panel) 92%, black);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+    .col h2 {
+      margin: 0;
+      font-size: 15px;
+      padding: 12px;
+      background: var(--panel-soft);
+      border-bottom: 1px solid var(--line);
+      letter-spacing: .2px;
+    }
+    .repo { padding: 10px 12px; border-bottom: 1px solid #202a38; }
+    .repo:last-child { border-bottom: none; }
+    .repo a { color: var(--accent); text-decoration: none; font-weight: 700; }
+    .meta { color: var(--muted); font-size: 12px; margin-top: 4px; }
+    .tag {
+      display: inline-block;
+      margin-top: 6px;
+      font-size: 11px;
+      border: 1px solid #27526b;
+      color: #7dd3fc;
+      padding: 2px 6px;
+      border-radius: 999px;
+    }
+    @media (max-width: 1100px) { .board { grid-template-columns: repeat(2, minmax(220px, 1fr)); } }
+    @media (max-width: 700px) { .board { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>Project Directory</h1>
+    <p class="sub">Option 2: Kanban-style columns with tags for quick scanning.</p>
+    <section class="board">
+      <article class="col">
+        <h2>AI Stuff</h2>
+        <div class="repo"><a href="https://github.com/bestisblessed/ai-local-builds">ai-local-builds</a><div class="meta">Local model/agent experiments</div><span class="tag">R&D</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/ai-templates">ai-templates</a><div class="meta">Reusable AI project patterns</div><span class="tag">Templates</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/deepseek">deepseek</a><div class="meta">Deepseek API examples</div><span class="tag">API</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/the-fight-predictor-agent">the-fight-predictor-agent</a><div class="meta">Autonomous UFC analysis account</div><span class="tag">Agent</span></div>
+      </article>
+      <article class="col">
+        <h2>Production Dashboards</h2>
+        <div class="repo"><a href="https://github.com/bestisblessed/mlb-ai">mlb-ai</a><div class="meta">MLB analysis + prediction platform</div><span class="tag">Sports</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/mma-ai">mma-ai</a><div class="meta">UFC/MMA analytics platform</div><span class="tag">Sports</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/nfl-ai">nfl-ai</a><div class="meta">NFL analysis + prediction platform</div><span class="tag">Sports</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/oil-ai-dashboard">oil-ai-dashboard</a><div class="meta">Oil and gas intelligence dashboard</div><span class="tag">Energy</span></div>
+      </article>
+      <article class="col">
+        <h2>Bots &amp; Trading Algorithms</h2>
+        <div class="repo"><a href="https://github.com/bestisblessed/odds-monitoring">odds-monitoring</a><div class="meta">Odds tracking and movement alerts</div><span class="tag">Monitoring</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/trading-bots-private">trading-bots-private</a><div class="meta">Production trading engines</div><span class="tag">Private</span></div>
+        <div class="repo"><a href="https://github.com/bestisblessed/trading-bots-public">trading-bots-public</a><div class="meta">Public trading scripts + tests</div><span class="tag">Public</span></div>
+      </article>
+      <article class="col">
+        <h2>Utilities</h2>
+        <div class="repo"><a href="https://github.com/bestisblessed/mma-ai-swift-app">mma-ai-swift-app</a><div class="meta">iOS companion app for MMA AI</div><span class="tag">iOS</span></div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
