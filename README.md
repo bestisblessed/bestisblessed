@@ -22,10 +22,11 @@
     <a target="_blank" rel="noopener noreferrer" href="./TylerDuretteResume.pdf">
         <img src="https://img.shields.io/badge/-Resume-darkgreen?style=flat-square&logo=readme&logoColor=white" alt="Resume" />
     </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://apps.apple.com/us/app/mma-ai/id6743686924">
+        <img src="https://img.shields.io/badge/-App_Store-black?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=bestisblessed&style=flat-square&color=blue" alt="Profile views" />
 </div>
-
-
 
 
 <h2 align="left" style="font-size:1.6em;letter-spacing:0.04em;margin-top:32px;margin-bottom:16px;border-bottom:2px solid #d1d5db;padding-bottom:8px;">💻 Current Projects</h2>
